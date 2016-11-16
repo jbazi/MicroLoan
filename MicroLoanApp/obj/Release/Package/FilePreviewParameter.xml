@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MicroloanApp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\ASPdotNET\\MicroLoanApplication\\MicroLoanApp\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\ASPdotNET\\MicroLoanApplication\\MicroLoanApp\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ApplicationServices-Web.config Connection String" description="" value="Data Source=jbazi.database.windows.net,1433;Initial Catalog=MicroLoan;User ID=jmutabaz@jbazi;Password=jmJM0708;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\ASPdotNET\\MicroLoanApplication\\MicroLoanApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+  <parameter name="MicroLoanConnection-Web.config Connection String" description="" value="Data Source=jbazi.database.windows.net,1433;Initial Catalog=MicroLoan;User ID=jmutabaz@jbazi;Password=jmJM0708;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\ASPdotNET\\MicroLoanApplication\\MicroLoanApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MicroLoanConnection']/@connectionString" />
+  </parameter>
+</parameters>

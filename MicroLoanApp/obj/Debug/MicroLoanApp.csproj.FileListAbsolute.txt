@@ -1,0 +1,15 @@
+C:\Dev\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.dll
+C:\Dev\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.pdb
+C:\Dev\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.dll
+C:\Dev\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.pdb
+C:\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.dll
+C:\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.pdb
+C:\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.dll
+C:\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.pdb
+C:\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.csprojResolveAssemblyReference.cache
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.dll
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.pdb
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.csprojResolveAssemblyReference.cache
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.dll
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\obj\Debug\MicroLoanApp.pdb
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.dll.config

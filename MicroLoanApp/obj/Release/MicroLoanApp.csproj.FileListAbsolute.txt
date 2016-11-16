@@ -1,0 +1,6 @@
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.dll
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.pdb
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\obj\Release\MicroLoanApp.csprojResolveAssemblyReference.cache
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\obj\Release\MicroLoanApp.dll
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\obj\Release\MicroLoanApp.pdb
+C:\ASPdotNET\MicroLoanApplication\MicroLoanApp\bin\MicroLoanApp.dll.config
